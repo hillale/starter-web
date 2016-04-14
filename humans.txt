@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alec Hill	hillale@gmail.com	@hillale7
 
 # THANKS
 
